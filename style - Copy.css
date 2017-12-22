@@ -8,8 +8,7 @@ p{color:red;font-family: Courier New, Courier, monospace;
     #p01{color:blue}
     p.error{color:greenyellow;}
     p.intro {
-    background-color:black; 
-	
+    background-color:black;
     color:white;
     border:1px solid grey;
     padding:10px;
