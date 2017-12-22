@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>{background-color:powderblue;}
+h1{color:black; font-family: Verdana;font-size:300%}
+p{color:red;font-family: Courier New, Courier, monospace;
+    font-size:160%;border: 1px solid powderblue;padding: 30px;margin: 50px; }
+    #p01{color:blue}
+    p.error{color:greenyellow;}
+    p.intro {
+    background-color:black;
+    color:white;
+    border:1px solid grey;
+    padding:10px;
+    margin:30px;
+    font-size:150%;
+    }
+    <style>
+     a:hover {color: red;background-color: transparent;text-decoration: underline;}
+     a:active {color: yellow;background-color:transparent;text-decoration: underline;}
+     a:visited{color:pink;background-color:transparent;text-decoration:none}
+     a:link{color:green;background-color:transparent;text-decoration:none;}
+</style>
+</body>
+</html>
